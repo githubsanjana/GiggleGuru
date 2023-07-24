@@ -41,7 +41,7 @@
 .made-by {
     position: absolute;
     bottom: 0;
-    left: 10px; 
+    left: 0; 
     font-style: italic;
     font-weight: 700;
     font-size: large;
@@ -57,6 +57,21 @@
       position: static;
       background: transparent;
     }
+    .made-by {
+        position: absolute;
+        bottom: 0;
+        left: 0; 
+        font-style: italic;
+        font-weight: 700;
+        font-size: large;
+        width: 100%; 
+        padding: 20px;
+        background: rgba(250, 145, 229, 0.8);
+      }
+
+
+
+
   }
   
 
