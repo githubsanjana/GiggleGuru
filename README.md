@@ -18,4 +18,4 @@ GiggleGuru is a fun and interactive web application designed to generate random 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/GiggleGuru.git
+   https://github.com/githubsanjana/GiggleGuru.git
